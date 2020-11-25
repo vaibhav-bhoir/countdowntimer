@@ -4,9 +4,8 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
-  background: #000 url(bg.jpeg);
-  background-position: fixed;
-  background-repeat: no-repeat;
+  background: linear-gradient( 109.6deg,  rgba(33,25,180,1) 11.2%, rgba(253,29,29,1) 55.2%, rgba(252,176,69,1) 91.1% );
+
 
 }
 .container {
